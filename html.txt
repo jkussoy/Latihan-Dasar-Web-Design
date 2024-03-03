@@ -1,0 +1,10 @@
+<html>
+<head>
+  <title>Home</title>
+</head>
+<body>
+  <hr>
+  <a href="">Home</a>
+  <a href="">Biodata</a>
+</body>
+</html>
